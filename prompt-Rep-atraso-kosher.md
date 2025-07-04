@@ -269,3 +269,4 @@ Você deve manter o item de “) DA COMPROVAÇÃO DOS DANOS MORAIS” (localizad
 
 Você deve adicionar disposições julgadas do TJ/SP ao caso na parte de fixação do valor dos danos morais.
 
+Observação importante, apenas se utilize das jurisprudências mencionadas na inicial e na réplica e as posicione e adeque de forma correta e congruente na fundamentação da apelação, não crie ou invente jurisprudências jurídicas.
