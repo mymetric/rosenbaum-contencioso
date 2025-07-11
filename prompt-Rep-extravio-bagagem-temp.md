@@ -6,21 +6,19 @@ Quero que você faça a replica conforme instruções abaixo, na ordem estipulad
 
 1.  Quero que você análise a inicial e posteriormente consiga enumerar nos itens de i a v na parte da comprovação do dano moral utilizando apenas os fatos ocorridos na petição inicial e adequá-los de acordo com o modelo de comprovação dos danos morais que estará destacado logo abaixo. Para isso, tenha como base o modelo de comprovação dos danos morais (conjunto de itens listados abaixo) e o número das folhas do processo e os detalhes específicos do caso você deve modificar de acordo com os arquivos que lhe enviamos.
 
-•	Falta de assistência material com pesquisa
+•	Extravio temporário de bagagem
 
+Modelo de comprovação dos danos morais:
 
-Modelo de comprovação dos danos morais: 
+i)	NÃO houve resolução de imediato do problema pela Ré, pois a parte Autora fora surpreendida com o extravio de sua mala (fls. 23), permanecendo por 07 (sete) dias de sua viagem sem a única bagagem que havia despachado;
 
-i)	NÃO houve rápida resolução do problema pela Ré, uma vez que após o desvio de rota (fls. 50/55), a parte Autora fora obrigada a permanecer em Atlanta sem o fornecimento da devida assistência material, inclusive, sendo obrigada a custear hospedagem, alimentação e itens essenciais para sua manutenção (fls.  108/117) durante o período de espera depois de ser completamente abandonada pela Ré; 
+ii)	NÃO foram ofertadas alternativas para melhor atender a parte Autora, pois como comprovado, a parte Autora permaneceu por 07 (sete) dias de sua viagem sem sua única bagagem, suportando grande frustração e aflição, sem saber o paradeiro de seus bens e sem que houvesse o fornecimento satisfatório de auxílio material ou qualquer alternativa que implicasse na diminuição ou inexistência dos danos sofridos;
 
-ii)	NÃO foram dadas à parte Autora melhores alternativas, uma vez que após o desvio de rota, a parte Autora informou à Ré sobre a possibilidade de reacomodação em voos anteriores disponíveis e que não causariam os demasiados transtornos sofridos (fls. 68/100), de modo que a recusa da Ré restou em claro descumprimento à determinação prevista no artigo 28, inciso I, da Resolução nº 400 da ANAC e artigo 741, do Código Civil, fazendo com que a parte Autora chegasse ao seu destino ao seu destino com 03 (três) dias de atraso;
+iii)	NÃO foram prestadas a tempo e modo informações claras e precisas por parte da Ré a fim de amenizar os desconfortos inerentes à ocasião, deixando a Autora ansiosa e nervosa diante de toda situação, visto que após realizar o preenchimento do Relatório de Irregularidade de Bagagem (v. fls. 23), a Ré não forneceu qualquer tipo de previsão ou informação de quando a bagagem seria devolvida;
 
-iii)	A parte Autora NÃO recebeu qualquer informação decente por parte da companhia, pois somente fora informada sobre o desvio de rota enquanto realizava o voo, deixando a Ré de cumprir com seu ônus, uma vez que diante da impossibilidade de execução da viagem nos termos originalmente previstos, a companhia aérea deve avisar seu passageiro com a antecedência mínima de 72 (setenta e duas) horas em relação ao horário previsto originalmente para o início da viagem, nos termos do artigo 12, caput, da Resolução nº 400 da ANAC; 
+iv)	A parte Autora não recebeu o devido e suficiente auxílio material da companhia, suportando grande transtorno ao ser privado da utilização de seus bens durante sua viagem;
 
-iv)	A parte Autora não recebeu os principais auxílios que poderiam ter sido fornecidos pela Ré e que não acarretaria os transtornos vividos, quais sejam, o fornecimento de assistência material à parte Autora durante o período de espera, bem como a reacomodação da parte Autora em voos anteriores disponíveis (fls. 68/100), contrariando o previsto no artigos 27, incisos II e III e 28, inciso I, ambos da Resolução 400 da ANAC, já que a companhia aérea deve proceder com o fornecimento de alimentação, hospedagem, transporte e reacomodação do passageiro em novo voo na primeira oportunidade para tanto, o que não ocorreu no presente caso.
-
-v)	A falta de informação e a falta de fornecimento de assistência material durante os 03 (três) dias em que a parte Autora permaneceu em Atlanta, mesmo havendo voos alternativos que antecederiam a chegada ao seu destino, frustraram as legítimas expectativas da parte Autora de que o serviço de transporte aéreo fosse prestado de forma eficiente, levando-a ao extremo dos seus sentimentos, em total afronta aos artigos 6º, inciso VI, e 14, ambos do CDC, 186, 734 e 927, ambos do CC e artigo 5º, inciso X, da CF. 
-
+v)	O extravio temporário de bagagem, a falta de informação e de auxílio por parte da Ré frustrou as legítimas expectativas da parte Autora de que o serviço de transporte aéreo fosse prestado de forma eficiente, levando-a ao extremo dos seus sentimentos, uma vez que o todo ocorrido, em total afronta aos artigos 6º, inciso VI, e 14, ambos do CDC, 186, 734 e 927, ambos do CC e artigo 5º, inciso X, da CF.
 
 2. Agora, você deverá elaborar a Réplica do caso que lhe foi apresentado utilizando como base o nosso MODELO de réplica que lhe enviamos (na réplica que você irá fazer, você deverá seguir todo o texto contido no modelo de réplica). Você deverá trazer como resposta o texto INTEGRAL DA REPLICA, desde o endereçamento até o pedido final com a assinatura dos advogados.
 
