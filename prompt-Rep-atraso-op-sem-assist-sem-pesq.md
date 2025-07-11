@@ -1,6 +1,6 @@
-Preciso que você faça uma replica.
+Preciso que você faça uma réplica.
 
-Para tanto, anexei uma inicial e uma contestação e após você consumir essas informações, você devera analisar o modelo de replica que tambem estara anexo, da qual você deve extrair a mesma fundamentação jurídica e o mesmo tom de escrita, bem como a mesma estrutura lógica da peça.
+Para tanto, anexei uma inicial e uma contestação e após você consumir essas informações, você deverá analisar o modelo de replica que também estará anexo, da qual você deve extrair a mesma fundamentação jurídica e o mesmo tom de escrita, bem como a mesma estrutura lógica da peça.
 
 Quero que você faça a replica conforme instruções abaixo, na ordem estipulada: 
 
