@@ -6,7 +6,7 @@ Quero que você faça a replica conforme instruções abaixo, na ordem estipulad
 
 1.  Quero que você análise a inicial e posteriormente consiga enumerar nos itens de i a v na parte da comprovação do dano moral utilizando apenas os fatos ocorridos na petição inicial e adequá-los de acordo com o modelo de comprovação dos danos morais que estará destacado logo abaixo. Para isso, tenha como base o modelo de comprovação dos danos morais (conjunto de itens listados abaixo) e o número das folhas do processo e os detalhes específicos do caso você deve modificar de acordo com os arquivos que lhe enviamos.
 
-•	Falta de assistência material - Sem com pesquisa
+•	Falta de assistência material - Sem pesquisa
 
 Modelo de comprovação dos danos morais: 
 
