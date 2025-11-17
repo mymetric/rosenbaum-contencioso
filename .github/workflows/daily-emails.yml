@@ -1,0 +1,25 @@
+name: Disparo diário de e-mails
+
+on:
+  schedule:
+    - cron: "0 11 * * *" # 08:00 no Brasil (UTC-3)
+  workflow_dispatch:
+
+jobs:
+  trigger-emails:
+    if: ${{ !contains('06 00 01', format('uu')) }}
+    # uu (ISO weekday): 1=Mon, 6=Sat, 7=Sun
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Disparar e-mails via API
+        run: |
+          curl -X POST https://collabe.app/api/public/email/send \
+          -H "Content-Type: application/json" \
+          -d '{
+            "templateCode": "NOTIFICATION",
+            "validationCode": "NTF_7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b",
+            "recipients": [
+              {"name": "Bruno", "email": "bruno@collabe.com.br"}
+            ]
+          }'
