@@ -20,6 +20,7 @@ jobs:
             "templateCode": "NOTIFICATION",
             "validationCode": "NTF_7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b",
             "recipients": [
+              {"name": "Leo", "email": "leo@rosenbaum.adv.br"},
               {"name": "Bruno", "email": "bruno@collabe.com.br"}
             ]
           }'
