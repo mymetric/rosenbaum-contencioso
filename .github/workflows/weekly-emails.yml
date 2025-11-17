@@ -1,0 +1,23 @@
+name: Disparo semanal de e-mails
+
+on:
+  schedule:
+    - cron: "0 11 * * 1" # Segunda às 08:00 (horário do Brasil)
+  workflow_dispatch:
+
+jobs:
+  trigger-emails:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Disparar e-mails via API semanal
+        run: |
+          curl -X POST https://collabe.app/api/public/email/send \
+          -H "Content-Type: application/json" \
+          -d '{
+            "templateCode": "WEEKLY_NOTIFICATION",
+            "validationCode": "WKL_7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b",
+            "recipients": [
+              {"name": "Bruno", "email": "bruno@collabe.com.br"}
+            ]
+          }'
