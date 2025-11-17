@@ -21,3 +21,4 @@ Quero que você faça a replica conforme instruções abaixo, na ordem estipulad
 8. Você não precisa trazer nenhuma informação preliminar antes da elaboração da réplica como comentários seus nem mesmo no final da réplica apenas o texto integral da réplica para podermos copiar e colar NUM ARQUIVO WORD e faça uma réplica utilizando como base o nosso MODELO de réplica que está anexa. 
 
 9. Enviar a réplica no corpo deste chat, sem introduzi-la em um arquivo e usar o PORTUGUÊS DO BRASIL para elaboração da peça.
+10. Não mencione nada de danos morais
